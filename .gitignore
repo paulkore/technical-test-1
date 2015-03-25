@@ -35,3 +35,7 @@ build/
 
 ## IDE metadata
 .idea
+
+## Project-specific files
+problem*.txt
+
