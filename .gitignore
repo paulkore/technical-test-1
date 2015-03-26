@@ -36,6 +36,10 @@ build/
 ## IDE metadata
 .idea
 
-## Project-specific files
+## This is a gem, so Gemfile.lock must be excluded from the repo
+Gemfile.lock
+
+## Project-specific files to be excluded for various reasons
 problem*.txt
+
 
